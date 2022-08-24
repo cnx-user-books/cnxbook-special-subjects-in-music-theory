@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Catherine Schmidt-Jones">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10220</md:content-id>
     <md:title>Special Subjects in Music Theory</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/1.0">Creative Commons Attribution License</md:license>
     <md:uuid>9af883a2-6840-4a2d-a149-6554420cb4fc</md:uuid>
-<md:slug>special-subjects-in-music-theory</md:slug>
-</metadata>
+    <md:slug>special-subjects-in-music-theory</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Transposition</md:title>
